@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymenteerify",
+        "uuid": 3534832,
+        "checksum": "etdin"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
